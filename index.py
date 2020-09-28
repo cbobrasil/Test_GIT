@@ -4,6 +4,7 @@ from tkinter import *
 from tkinter import messagebox
 from tkinter import ttk
 import Databaser
+import pandas as pandas
 
 
 #criar janela
